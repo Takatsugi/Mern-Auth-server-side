@@ -1,6 +1,6 @@
 # Mern Auth server side
 
-Node authentication module with JWT and Google identity
+Node authentication module with JWT, Google identity, MongoDB Atlas, Express and mongoose.
 
 ## Getting started
 
